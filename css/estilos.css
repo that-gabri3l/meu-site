@@ -1,0 +1,12 @@
+*, *::after, *::before { box-sizing: border-box;}
+
+body{font-family: sans-serif;
+background-color: rgb(82, 127, 250);
+}
+
+header {
+    background-color: rgb(240, 218, 122);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
